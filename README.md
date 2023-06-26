@@ -19,7 +19,7 @@
 </div>
 
 ## Most Used Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Aquino&theme=blue-green)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergio-Aquino&theme=tokyonight)
 
 ## Contact Info
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sergio-gabriel-234583223/)

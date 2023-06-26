@@ -3,7 +3,7 @@
 - Passionate about technology and programming. :computer: 
 
 ## GitHub Stats
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-Aquino&show_icons=true&theme=tokyonight)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sergio-Aquino&show_icons=true&theme=dracula)
 
 ## Used Technologies
 <div style="display: inline_block"><br>
